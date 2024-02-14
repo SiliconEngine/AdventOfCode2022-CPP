@@ -3,6 +3,9 @@
 
 Link: https://adventofcode.com/2022/
 
+Advent of Code is a series of puzzles over 25 days, each with a part 1 and part 2. The difficulty roughly rises
+each day, with the later puzzles often requiring some tricky algorithms to solve.
+
 Various days are in separate directories, each with their own main. Typically each module has a part1 and a part2,
 though a few times I didn't keep the part1 once I solved it.
 
